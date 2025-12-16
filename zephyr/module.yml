@@ -1,7 +1,8 @@
-name: "zmk-shield-nice!corne_v1_dual_img" #change name after ! to anything
+name: "zmk-shield-nice!corne-v1-dual-img" #change name after ! to anything
 build:
   settings:
     board_root: .
+
 
 
 
