@@ -1,5 +1,13 @@
-<h1>Change data in the following places</h1>
+<h1>Change file name</h1>
 
+nice_shield_base.zmk.yml
+
+nice_shield_base.overlay
+
+nice_shield_base.conf
+
+
+<h1>Change data in the following places</h1>
 build.yaml
 
 zephyr/module.yml
