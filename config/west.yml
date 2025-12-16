@@ -9,11 +9,12 @@ manifest:
       remote: zmkfirmware
       revision: v0.3
       import: app/west.yml
-    - name: corne-v1-dual-img #Repo name
+    - name: corne_v1_dual_img #Repo name
       remote: Paxolotl589 #Repo owner
       revision: master #what type of branch is this (master/main/etc.) top left in main repo page
   self:
     path: config
+
 
 
 
